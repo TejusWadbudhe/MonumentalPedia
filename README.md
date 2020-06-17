@@ -9,3 +9,7 @@ Feel some great monuments in AR and also learn about them from Wikipedia
 
 # Dependencies
 • This was build on Vuforia 9.2.7 Android SDK
+
+# Limitations
+• Can only search for - Colosseum, Christ The Redeemer, Taj Mahal, Lotus Temple
+• You can search for other things but the 3D model is not present for now
